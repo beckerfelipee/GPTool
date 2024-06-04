@@ -1,7 +1,5 @@
 # GPTool - Your AI Companion on WhatsApp 🚀
 
-Website: https://beckerfelipee.github.io/GPTool-LandingPage/
-
 GPTool is dedicated to simplifying AI interaction. We integrate GPT into WhatsApp, making the power of artificial intelligence easily accessible to all. Our mission is to empower users to effortlessly engage with AI, bridging the gap between technology and convenience. 
 
 Using AI with GPTool is as simple as sending a message on WhatsApp. Just type your query, and our platform will promptly deliver informative responses powered by AI. We've prioritized simplicity to make AI accessible in your WhatsApp chats, ensuring its potential is easily within reach for everyone.
